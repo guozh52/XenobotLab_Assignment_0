@@ -20,3 +20,5 @@ The CAD file for the J60-6 Motor (J60-6.STEP) and the full Lite3 quadruped assem
 4. Feel free to refer to the Lite3 robot dog’s original holder and connector designs or to the example photos provided.
 
 5. After completing your design, send me the CAD models for review, and then you will 3D print them on our lab’s Bambu 3D X1C printer for functional testing.
+
+If you have any question or you think the description above is unclear, feel free to send me an eamil!
