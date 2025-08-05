@@ -11,7 +11,7 @@ The CAD file for the J60-6 Motor (J60-6.STEP) and the full Lite3 quadruped assem
 
 ## Requirements
 
-1. Please submit a complete assembly that includes the motor, holder, connector, screws, nuts and any necessary part.
+1. Please submit a complete assembly that includes the motor, holder, connector, screws, washers, nuts and any necessary part.
 
 2. Our automated design pipeline will attach the holder and connector to the robot body, so both parts must have a cylindrical outer shape (refer to the picture).
 
