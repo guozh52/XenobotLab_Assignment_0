@@ -1,6 +1,6 @@
 # Mechanical Design Test
 
-## DeepRobotics J60-6 Motor Holder & Connector Assignment
+## DeepRobotics J60-6 Motor Holder & Connector CAD Design Assignment
 
 In this project, we use the DeepRobotics J60-6 Motor—the same motor installed on the DeepRobotics Lite3 quadruped robot (<https://www.deeprobotics.cn/en/index/product1.html>).
 
