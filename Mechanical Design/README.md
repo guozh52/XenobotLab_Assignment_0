@@ -6,7 +6,7 @@ In this project, we use the DeepRobotics J60-6 Motor—the same motor installed 
 
 The CAD file for the J60-6 Motor (J60-6.STEP) and the full Lite3 quadruped assembly (<https://drive.google.com/file/d/1cf75oRrzsMb29_5ZQQ8bQV89uqFTcA53/view?usp=sharing>) are provided for your reference.
 
-**Your task: Design a cylindrical motor holder and a cylindrical motor connector to securely mount and couple the J60-6 motor in our robot.**
+**Your task: Design a motor holder and a motor connector to securely mount and couple the J60-6 motor in our robot.**
 
 
 ## Requirements
